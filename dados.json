@@ -1,0 +1,54 @@
+{
+    "usuarios": [
+        {
+            "nome": "JOSE FULANO",
+            "of": "10000",
+            "ambiente": "cozinha"
+        },
+        {
+            "nome": "JOSE SICRANO",
+            "of": "10001",
+            "ambiente": "cozinha"
+        },
+        {
+            "nome": "MARIA FULANO",
+            "of": "10002",
+            "ambiente": "cozinha"
+        },
+        {
+            "nome": "MARIA SICRANO",
+            "of": "10003",
+            "ambiente": "cozinha"
+        },
+        {
+            "nome": "RUBEN FULANO",
+            "of": "10004",
+            "ambiente": "cozinha"
+        },
+        {
+            "nome": "RUBEN SICRANO",
+            "of": "10005",
+            "ambiente": "cozinha"
+        },
+        {
+            "nome": "AIRTON FULANO",
+            "of": "10006",
+            "ambiente": "cozinha"
+        },
+        {
+            "nome": "AIRTON SICRANO",
+            "of": "10007",
+            "ambiente": "cozinha"
+        },
+        {
+            "nome": "MARCIA FULANO",
+            "of": "10008",
+            "ambiente": "cozinha"
+        },
+        {
+            "nome": "MARCIA SICRANO",
+            "of": "10009",
+            "ambiente": "cozinha"
+        }
+    ]
+}
